@@ -1,0 +1,40 @@
+
+Program name : Exeinfo Pe 
+Version      : 0.0.9.7 II ( 1247 + 206 signatures x64 ) 
+             : Ext_detector - v7.8.3 ( 783 non exe signatures )
+             : external signatures : userdb.txt : 4467
+Author	     : A.S.L Soft
+E-Mail       : asl@onet.eu
+WWW          : http://www.exeinfo.xn.pl 
+Category     : Exe detector / Data detector / Exe Tools
+Description  : Detect packer / protector / compiler / .NET obfuscator
+Register     : Freeware
+OS           : Windows 7/8/10 x86/x64  
+Requirements : min. 486, 666MHz
+               min. 1 GB RAM,
+               min. 50MB hard drive space
+               SVGA Graphic Card, 256 colors
+
+------------------------------------------------------------------
+
+	Fast detector for executable PE files
+
+------------------------------------------------------------------
+
+Added on this version only :
+
+
+- Inno unpacker updated to : v.2.67.6
+- old signatures updated 
+- ELF Ripper limit added to 50 MB if set
+- non exe detector updated wav or other files
+
+
+ Included version for Windows XP
+
+
+		  A.S.L  ( c )  2026.03.29
+
+
+
+
